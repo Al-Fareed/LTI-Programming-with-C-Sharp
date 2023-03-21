@@ -1,0 +1,12 @@
+A:\LTI-Training\LTI-Programming-with-C-Sharp\First Program\CMS.UI.Models\bin\Debug\net7.0\CMS.UI.Models.deps.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\First Program\CMS.UI.Models\bin\Debug\net7.0\CMS.UI.Models.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\First Program\CMS.UI.Models\bin\Debug\net7.0\CMS.UI.Models.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\First Program\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.csproj.AssemblyReference.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\First Program\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\LTI-Programming-with-C-Sharp\First Program\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.AssemblyInfoInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\First Program\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.AssemblyInfo.cs
+A:\LTI-Training\LTI-Programming-with-C-Sharp\First Program\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.csproj.CoreCompileInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\First Program\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\First Program\CMS.UI.Models\obj\Debug\net7.0\refint\CMS.UI.Models.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\First Program\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\First Program\CMS.UI.Models\obj\Debug\net7.0\ref\CMS.UI.Models.dll

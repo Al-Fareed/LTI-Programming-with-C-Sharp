@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CMS.Application/1.0.0": {
+        "dependencies": {
+          "CMS.UI.Models": "1.0.0"
+        },
+        "runtime": {
+          "CMS.Application.dll": {}
+        }
+      },
+      "CMS.UI.Models/1.0.0": {
+        "runtime": {
+          "CMS.UI.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CMS.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CMS.UI.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
