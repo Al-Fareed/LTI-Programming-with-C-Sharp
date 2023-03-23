@@ -1,0 +1,15 @@
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\bin\Debug\net7.0\EcpensesForTheEvent.exe
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\bin\Debug\net7.0\EcpensesForTheEvent.deps.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\bin\Debug\net7.0\EcpensesForTheEvent.runtimeconfig.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\bin\Debug\net7.0\EcpensesForTheEvent.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\bin\Debug\net7.0\EcpensesForTheEvent.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\obj\Debug\net7.0\EcpensesForTheEvent.csproj.AssemblyReference.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\obj\Debug\net7.0\EcpensesForTheEvent.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\obj\Debug\net7.0\EcpensesForTheEvent.AssemblyInfoInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\obj\Debug\net7.0\EcpensesForTheEvent.AssemblyInfo.cs
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\obj\Debug\net7.0\EcpensesForTheEvent.csproj.CoreCompileInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\obj\Debug\net7.0\EcpensesForTheEvent.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\obj\Debug\net7.0\refint\EcpensesForTheEvent.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\obj\Debug\net7.0\EcpensesForTheEvent.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\obj\Debug\net7.0\EcpensesForTheEvent.genruntimeconfig.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\EcpensesForTheEvent\obj\Debug\net7.0\ref\EcpensesForTheEvent.dll

@@ -1,0 +1,15 @@
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\bin\Debug\net7.0\DiceGame.exe
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\bin\Debug\net7.0\DiceGame.deps.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\bin\Debug\net7.0\DiceGame.runtimeconfig.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\bin\Debug\net7.0\DiceGame.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\bin\Debug\net7.0\DiceGame.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\obj\Debug\net7.0\DiceGame.csproj.AssemblyReference.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\obj\Debug\net7.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\obj\Debug\net7.0\DiceGame.AssemblyInfoInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\obj\Debug\net7.0\DiceGame.AssemblyInfo.cs
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\obj\Debug\net7.0\DiceGame.csproj.CoreCompileInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\obj\Debug\net7.0\DiceGame.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\obj\Debug\net7.0\refint\DiceGame.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\obj\Debug\net7.0\DiceGame.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\obj\Debug\net7.0\DiceGame.genruntimeconfig.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\DiceGame\obj\Debug\net7.0\ref\DiceGame.dll
