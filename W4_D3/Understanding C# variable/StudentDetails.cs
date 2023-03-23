@@ -49,33 +49,30 @@ Grades : C
 
 */
 using System;
-class Program{
-     void get(string data){
-        Console.WriteLine("Enter {0} :",data);
-    }
-    void display(string data){
-        Console.Write("{0} : ",data);
-    }
- static void Main(String[] args) {
-        Program p=new Program();
-        p.get("name");
-        string name=Console.ReadLine();
-        p.get("Roll No");
-        int rollNo=int.Parse(Console.ReadLine());
-        p.get("Subject");
-        string subject=Console.ReadLine();
-        p.get("Marks");
-        double marks=double.Parse(Console.ReadLine());
-        p.get("Grade");
-        string grades=Console.ReadLine();
-        Console.WriteLine(name+" Details :");
-        p.display("Roll No");
-        Console.WriteLine(rollNo);
-        p.display("Subject");
-        Console.WriteLine(subject);
-        p.display("Marks");
-        Console.WriteLine(String.Format("{0:0.#}",marks));
-        p.display("Grades");
-        Console.WriteLine(grades); 
-         }    
+   class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter name :");
+            string name = Console.ReadLine();
+
+            Console.WriteLine("Enter Roll No :");
+            int rollNo = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter Subject :");
+            string subject = Console.ReadLine();
+
+            Console.WriteLine("Enter Marks :");
+            float marks = float.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter Grade :");
+            char grade = char.Parse(Console.ReadLine());
+
+            Console.WriteLine(name + " Details :");
+            Console.WriteLine("Roll No : " + rollNo);
+            Console.WriteLine("Subject : " + subject);
+            Console.WriteLine("Marks : "+String.Format("{0:0.0}",marks));
+            Console.WriteLine("Grades : " + grade);
+        }
+
 }
