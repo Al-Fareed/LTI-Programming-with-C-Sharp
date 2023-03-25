@@ -1,0 +1,15 @@
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\bin\Debug\net7.0\NumberPatternReverse.exe
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\bin\Debug\net7.0\NumberPatternReverse.deps.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\bin\Debug\net7.0\NumberPatternReverse.runtimeconfig.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\bin\Debug\net7.0\NumberPatternReverse.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\bin\Debug\net7.0\NumberPatternReverse.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\obj\Debug\net7.0\NumberPatternReverse.csproj.AssemblyReference.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\obj\Debug\net7.0\NumberPatternReverse.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\obj\Debug\net7.0\NumberPatternReverse.AssemblyInfoInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\obj\Debug\net7.0\NumberPatternReverse.AssemblyInfo.cs
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\obj\Debug\net7.0\NumberPatternReverse.csproj.CoreCompileInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\obj\Debug\net7.0\NumberPatternReverse.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\obj\Debug\net7.0\refint\NumberPatternReverse.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\obj\Debug\net7.0\NumberPatternReverse.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\obj\Debug\net7.0\NumberPatternReverse.genruntimeconfig.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\NumberPatternReverse\obj\Debug\net7.0\ref\NumberPatternReverse.dll

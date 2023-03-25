@@ -1,0 +1,15 @@
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\bin\Debug\net7.0\Factorial.exe
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\bin\Debug\net7.0\Factorial.deps.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\bin\Debug\net7.0\Factorial.runtimeconfig.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\bin\Debug\net7.0\Factorial.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\bin\Debug\net7.0\Factorial.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\obj\Debug\net7.0\Factorial.csproj.AssemblyReference.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\obj\Debug\net7.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\obj\Debug\net7.0\Factorial.AssemblyInfoInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\obj\Debug\net7.0\Factorial.AssemblyInfo.cs
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\obj\Debug\net7.0\Factorial.csproj.CoreCompileInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\obj\Debug\net7.0\Factorial.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\obj\Debug\net7.0\refint\Factorial.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\obj\Debug\net7.0\Factorial.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\obj\Debug\net7.0\Factorial.genruntimeconfig.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\Factorial\obj\Debug\net7.0\ref\Factorial.dll

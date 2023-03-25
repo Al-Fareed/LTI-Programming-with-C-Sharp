@@ -1,0 +1,15 @@
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\bin\Debug\net7.0\TeamEvent.exe
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\bin\Debug\net7.0\TeamEvent.deps.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\bin\Debug\net7.0\TeamEvent.runtimeconfig.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\bin\Debug\net7.0\TeamEvent.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\bin\Debug\net7.0\TeamEvent.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\obj\Debug\net7.0\TeamEvent.csproj.AssemblyReference.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\obj\Debug\net7.0\TeamEvent.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\obj\Debug\net7.0\TeamEvent.AssemblyInfoInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\obj\Debug\net7.0\TeamEvent.AssemblyInfo.cs
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\obj\Debug\net7.0\TeamEvent.csproj.CoreCompileInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\obj\Debug\net7.0\TeamEvent.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\obj\Debug\net7.0\refint\TeamEvent.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\obj\Debug\net7.0\TeamEvent.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\obj\Debug\net7.0\TeamEvent.genruntimeconfig.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Iterative Statements\TeamEvent\obj\Debug\net7.0\ref\TeamEvent.dll

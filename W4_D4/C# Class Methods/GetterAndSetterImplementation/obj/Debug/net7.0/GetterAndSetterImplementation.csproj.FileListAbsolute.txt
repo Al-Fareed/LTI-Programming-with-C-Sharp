@@ -1,0 +1,15 @@
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\bin\Debug\net7.0\GetterAndSetterImplementation.exe
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\bin\Debug\net7.0\GetterAndSetterImplementation.deps.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\bin\Debug\net7.0\GetterAndSetterImplementation.runtimeconfig.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\bin\Debug\net7.0\GetterAndSetterImplementation.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\bin\Debug\net7.0\GetterAndSetterImplementation.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\obj\Debug\net7.0\GetterAndSetterImplementation.csproj.AssemblyReference.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\obj\Debug\net7.0\GetterAndSetterImplementation.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\obj\Debug\net7.0\GetterAndSetterImplementation.AssemblyInfoInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\obj\Debug\net7.0\GetterAndSetterImplementation.AssemblyInfo.cs
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\obj\Debug\net7.0\GetterAndSetterImplementation.csproj.CoreCompileInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\obj\Debug\net7.0\GetterAndSetterImplementation.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\obj\Debug\net7.0\refint\GetterAndSetterImplementation.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\obj\Debug\net7.0\GetterAndSetterImplementation.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\obj\Debug\net7.0\GetterAndSetterImplementation.genruntimeconfig.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Class Methods\GetterAndSetterImplementation\obj\Debug\net7.0\ref\GetterAndSetterImplementation.dll
