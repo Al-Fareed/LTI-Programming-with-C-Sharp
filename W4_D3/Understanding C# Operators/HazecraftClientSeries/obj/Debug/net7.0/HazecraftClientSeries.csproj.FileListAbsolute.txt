@@ -1,0 +1,15 @@
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\obj\Debug\net7.0\HazecraftClientSeries.csproj.AssemblyReference.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\obj\Debug\net7.0\HazecraftClientSeries.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\obj\Debug\net7.0\HazecraftClientSeries.AssemblyInfoInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\obj\Debug\net7.0\HazecraftClientSeries.AssemblyInfo.cs
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\obj\Debug\net7.0\HazecraftClientSeries.csproj.CoreCompileInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\bin\Debug\net7.0\HazecraftClientSeries.exe
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\bin\Debug\net7.0\HazecraftClientSeries.deps.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\bin\Debug\net7.0\HazecraftClientSeries.runtimeconfig.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\bin\Debug\net7.0\HazecraftClientSeries.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\bin\Debug\net7.0\HazecraftClientSeries.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\obj\Debug\net7.0\HazecraftClientSeries.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\obj\Debug\net7.0\refint\HazecraftClientSeries.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\obj\Debug\net7.0\HazecraftClientSeries.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\obj\Debug\net7.0\HazecraftClientSeries.genruntimeconfig.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D3\Understanding C# Operators\HazecraftClientSeries\obj\Debug\net7.0\ref\HazecraftClientSeries.dll
