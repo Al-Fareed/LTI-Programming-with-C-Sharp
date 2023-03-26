@@ -76,7 +76,7 @@ class Program{
         Console.WriteLine("Enter the item type name");
         i.Name = Console.ReadLine();
         Console.WriteLine("Enter the cost per day");
-        i.Cost=double.Parse(Console.ReadLine());
+        i.CostPerDay=double.Parse(Console.ReadLine());
         Console.WriteLine("Enter the deposit");
         i.Deposit=double.Parse(Console.ReadLine());
  
