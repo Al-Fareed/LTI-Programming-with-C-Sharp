@@ -1,0 +1,15 @@
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\bin\Debug\net7.0\GSTCalculation.exe
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\bin\Debug\net7.0\GSTCalculation.deps.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\bin\Debug\net7.0\GSTCalculation.runtimeconfig.json
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\bin\Debug\net7.0\GSTCalculation.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\bin\Debug\net7.0\GSTCalculation.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\obj\Debug\net7.0\GSTCalculation.csproj.AssemblyReference.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\obj\Debug\net7.0\GSTCalculation.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\obj\Debug\net7.0\GSTCalculation.AssemblyInfoInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\obj\Debug\net7.0\GSTCalculation.AssemblyInfo.cs
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\obj\Debug\net7.0\GSTCalculation.csproj.CoreCompileInputs.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\obj\Debug\net7.0\GSTCalculation.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\obj\Debug\net7.0\refint\GSTCalculation.dll
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\obj\Debug\net7.0\GSTCalculation.pdb
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\obj\Debug\net7.0\GSTCalculation.genruntimeconfig.cache
+A:\LTI-Training\LTI-Programming-with-C-Sharp\W4_D4\C# Inheritance\GSTCalculation\obj\Debug\net7.0\ref\GSTCalculation.dll
