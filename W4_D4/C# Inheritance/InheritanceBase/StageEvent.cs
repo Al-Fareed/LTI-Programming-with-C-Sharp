@@ -3,10 +3,7 @@ public class StageEvent : Event
 {
     private string _showType;
     //Fill your code
-     public StageEvent()
-    {
-       
-    }
+     public StageEvent(){}
     public StageEvent(string _name, DateTime _date, string _type, string _organizer, string _showType)
     {
         base._name = _name;

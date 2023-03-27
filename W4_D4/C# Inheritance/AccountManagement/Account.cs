@@ -1,24 +1,21 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 class Account
 {
-    private String _accountNumber;
-    private Double _balance;
-    private String _accountHolderName;
-
-    //fill code here
+    private string _accountNumber;
+    private double _balance;
+    private string _accountHolderName;
     public Account(string _accountNumber, double _balance, string _accountHolderName)
     {
         this._accountNumber=_accountNumber;
         this._balance=_balance;
         this._accountHolderName=_accountHolderName;
     }
-    public string AccountNumber{get;set;}
-    public double Balance{get;set;}
-    public String AccountHolderName{get;set;}
-
+    public string AccountNumber{
+        get=>this._accountNumber;
+    }
+    public double Balance{
+        get=>this._balance;
+    }
+    public string AccountHolderName{
+        get=>this._accountHolderName;
+    }
 }

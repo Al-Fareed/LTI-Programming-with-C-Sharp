@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\LTI-Training\\LTI-Programming-with-C-Sharp\\W4_D4\\C# Inheritance\\AccountManagement\\AccountManagement.csproj": {}
+    "A:\\LTI-Training\\Programming-with-C-Sharp\\W4_D4\\C# Inheritance\\AccountManagement\\AccountManagement.csproj": {}
   },
   "projects": {
-    "A:\\LTI-Training\\LTI-Programming-with-C-Sharp\\W4_D4\\C# Inheritance\\AccountManagement\\AccountManagement.csproj": {
+    "A:\\LTI-Training\\Programming-with-C-Sharp\\W4_D4\\C# Inheritance\\AccountManagement\\AccountManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\LTI-Training\\LTI-Programming-with-C-Sharp\\W4_D4\\C# Inheritance\\AccountManagement\\AccountManagement.csproj",
+        "projectUniqueName": "A:\\LTI-Training\\Programming-with-C-Sharp\\W4_D4\\C# Inheritance\\AccountManagement\\AccountManagement.csproj",
         "projectName": "AccountManagement",
-        "projectPath": "A:\\LTI-Training\\LTI-Programming-with-C-Sharp\\W4_D4\\C# Inheritance\\AccountManagement\\AccountManagement.csproj",
+        "projectPath": "A:\\LTI-Training\\Programming-with-C-Sharp\\W4_D4\\C# Inheritance\\AccountManagement\\AccountManagement.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "A:\\LTI-Training\\LTI-Programming-with-C-Sharp\\W4_D4\\C# Inheritance\\AccountManagement\\obj\\",
+        "outputPath": "A:\\LTI-Training\\Programming-with-C-Sharp\\W4_D4\\C# Inheritance\\AccountManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
