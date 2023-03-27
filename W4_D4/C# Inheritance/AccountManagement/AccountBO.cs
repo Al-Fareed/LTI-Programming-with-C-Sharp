@@ -14,7 +14,7 @@ class AccountBO
         Console.WriteLine("{0,-20} {1,-10} {2,-20} {3,-20} {4}","Account Number","Balance","Account holder name","Minimum balance","Locking period");
           foreach (FixedAccount fixedAccount in fixedAccountList)
         {
-            Console.WriteLine("{0,-20} {1,-10:F1} {2,-20} {3,-20:F1} {4}","{0}",fixedAccount.AccountNumber,fixedAccount.Balance,fixedAccount.AccountHolderName,fixedAccount.MinimumBalance,fixedAccount.LockingPeriod);
+            Console.WriteLine("{0,-20} {1,-10:F1} {2,-20} {3,-20:F1} {4}",fixedAccount.AccountNumber,fixedAccount.Balance,fixedAccount.AccountHolderName,fixedAccount.MinimumBalance,fixedAccount.LockingPeriod);
         }
     }
 }
