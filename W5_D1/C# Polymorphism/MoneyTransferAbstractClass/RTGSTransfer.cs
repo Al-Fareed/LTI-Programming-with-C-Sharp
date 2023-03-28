@@ -1,7 +1,7 @@
  using System;
-public class RTGSTransfer
+public class RTGSTransfer : FundTransfer 
 {
-    public void Transfer(string accountNumber, double amount)
+    public override void Transfer(string accountNumber, double amount)
     {
         //Fill your code here
         if(amount>10000){
