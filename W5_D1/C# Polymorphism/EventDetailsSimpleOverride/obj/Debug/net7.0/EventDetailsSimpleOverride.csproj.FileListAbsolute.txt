@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\bin\Debug\net7.0\EventDetailsSimpleOverride.exe
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\bin\Debug\net7.0\EventDetailsSimpleOverride.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\bin\Debug\net7.0\EventDetailsSimpleOverride.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\bin\Debug\net7.0\EventDetailsSimpleOverride.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\bin\Debug\net7.0\EventDetailsSimpleOverride.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\obj\Debug\net7.0\EventDetailsSimpleOverride.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\obj\Debug\net7.0\EventDetailsSimpleOverride.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\obj\Debug\net7.0\EventDetailsSimpleOverride.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\obj\Debug\net7.0\EventDetailsSimpleOverride.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\obj\Debug\net7.0\EventDetailsSimpleOverride.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\obj\Debug\net7.0\EventDetailsSimpleOverride.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\obj\Debug\net7.0\refint\EventDetailsSimpleOverride.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\obj\Debug\net7.0\EventDetailsSimpleOverride.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\obj\Debug\net7.0\EventDetailsSimpleOverride.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Polymorphism\EventDetailsSimpleOverride\obj\Debug\net7.0\ref\EventDetailsSimpleOverride.dll
