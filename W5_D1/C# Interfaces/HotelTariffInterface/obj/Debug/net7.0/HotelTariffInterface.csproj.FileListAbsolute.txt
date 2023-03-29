@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\obj\Debug\net7.0\HotelTariffInterface.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\obj\Debug\net7.0\HotelTariffInterface.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\obj\Debug\net7.0\HotelTariffInterface.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\obj\Debug\net7.0\HotelTariffInterface.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\obj\Debug\net7.0\HotelTariffInterface.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\bin\Debug\net7.0\HotelTariffInterface.exe
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\bin\Debug\net7.0\HotelTariffInterface.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\bin\Debug\net7.0\HotelTariffInterface.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\bin\Debug\net7.0\HotelTariffInterface.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\bin\Debug\net7.0\HotelTariffInterface.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\obj\Debug\net7.0\HotelTariffInterface.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\obj\Debug\net7.0\refint\HotelTariffInterface.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\obj\Debug\net7.0\HotelTariffInterface.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\obj\Debug\net7.0\HotelTariffInterface.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\HotelTariffInterface\obj\Debug\net7.0\ref\HotelTariffInterface.dll

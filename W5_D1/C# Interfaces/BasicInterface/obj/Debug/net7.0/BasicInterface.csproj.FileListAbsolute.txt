@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\bin\Debug\net7.0\BasicInterface.exe
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\bin\Debug\net7.0\BasicInterface.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\bin\Debug\net7.0\BasicInterface.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\bin\Debug\net7.0\BasicInterface.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\bin\Debug\net7.0\BasicInterface.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\obj\Debug\net7.0\BasicInterface.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\obj\Debug\net7.0\BasicInterface.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\obj\Debug\net7.0\BasicInterface.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\obj\Debug\net7.0\BasicInterface.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\obj\Debug\net7.0\BasicInterface.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\obj\Debug\net7.0\BasicInterface.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\obj\Debug\net7.0\refint\BasicInterface.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\obj\Debug\net7.0\BasicInterface.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\obj\Debug\net7.0\BasicInterface.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D1\C# Interfaces\BasicInterface\obj\Debug\net7.0\ref\BasicInterface.dll
