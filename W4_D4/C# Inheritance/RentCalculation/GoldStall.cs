@@ -7,18 +7,21 @@ public class GoldStall : Stall
     {
         this._discount = _discount;
     }
-   double rent;
+    double rent;
 
-    public override double CalculateRent(int days)
+    public override double calculateRent(int days)
     {
-        rent = (days * CostPerDay) - ((days * CostPerDay )* _discount/100);
+        rent = (days * _costPerDay) - ((days * _costPerDay) * _discount / 100);
         return rent;
     }
     public override string ToString()
     {
         //Fill your code here
-        Console.WriteLine("Your Total Cost {0}", rent );
-
+        Console.WriteLine("Name : {0}", _name);
+        Console.WriteLine("Detail : {0}", _detail);
+        Console.WriteLine("Owner : {0}", _owner);
+        Console.WriteLine("Cost Per Day : {0}", _costPerDay);
+        
         return "";
     }
 }
