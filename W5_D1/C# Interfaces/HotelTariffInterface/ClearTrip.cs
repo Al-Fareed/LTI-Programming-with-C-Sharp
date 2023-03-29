@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class ClearTrip : HotelTariff//Fill your code here
 {
-    Dictionary<string, Dictionary<string, double>> HotelList = new Dictionary<string, Dictionary<string, double>>
+    Dictionary<string, Dictionary<string, double>> HotelList = new Dictionary<string, Dictionary<string, double>>       
     {
         {
         "Chennai",

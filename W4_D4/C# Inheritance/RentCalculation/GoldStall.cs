@@ -1,4 +1,5 @@
-class GoldStall : Stall
+using System;
+public class GoldStall : Stall
 {
     public double _discount;
     public GoldStall() { }
@@ -10,7 +11,8 @@ class GoldStall : Stall
 
     public override double CalculateRent(int days)
     {
-        rent = (days * base.costPerDay) - ((days * base.costPerDay )* discount/100);
+        rent = (days * CostPerDay) - ((days * CostPerDay )* _discount/100);
+        return rent;
     }
     public override string ToString()
     {

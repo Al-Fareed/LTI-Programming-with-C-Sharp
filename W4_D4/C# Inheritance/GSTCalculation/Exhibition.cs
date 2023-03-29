@@ -29,8 +29,6 @@ class Exhibition : Event //Fill your code here
     public override string ToString()
     {
         //Fill your code here
-        Console.WriteLine("Name:{0}\nType:{1}\nNumber of stalls:{2}",_name,_type,_noOfStalls);
-        Console.WriteLine("Total amount:"+string.Format("{0:0.00}",totalCost()));
-        return "";
+        return base.ToString()+"\nNumber of stalls:"+_noOfStalls+"\nTotal amount:"+totalCost().ToString("F2");
     }
 }

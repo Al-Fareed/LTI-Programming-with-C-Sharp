@@ -8,15 +8,15 @@ class Event
     
     
     //Fill your code here
-    public Event()
-    {
-        
-    }
+    public Event(){}
     public Event(string _name, string _type, double _costPerDay, int _noOfDays)
     {
         this._name=_name;
         this._type=_type;
         this._costPerDay=_costPerDay;
         this._noOfDays=_noOfDays;
+    }
+    public override string ToString(){
+        return "Name:"+_name+"\nType:"+_type;
     }
 }

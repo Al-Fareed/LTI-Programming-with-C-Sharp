@@ -1,4 +1,5 @@
-﻿class Program
+﻿using System;
+class Program
 {
     static void Display(string name,string detail,string owner, double costPerDay){
          Console.WriteLine("Name : {0}",name);
@@ -48,10 +49,12 @@
                 PlatinumStall p=new PlatinumStall();
                 Display(stallName, stallDetail, ownerName, costPerDay);
                 if(coupon == "yes"){
-                   int rent= p.ToString();
+                    p.CalculateRent(noOfDays);
+                   int rent=int.Parse( p.ToString());
                    Console.WriteLine("Your Total Cost {0}",(rent/2));
                 }else{
-                    int rent= p.ToString();
+                    p.CalculateRent(noOfDays);
+                    int rent= int.Parse(p.ToString());
                     Console.WriteLine("Your Total Cost {0}",rent);
                 }
             }

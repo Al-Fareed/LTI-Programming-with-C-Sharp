@@ -1,0 +1,345 @@
+https://github.com/gayat19/Dotnet22Mar2023.git
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApp
+{
+    internal interface IProjectWorking
+    {
+        void AssignEmployee(Employee employee);
+        void ScheduleProject();
+        void CompleteProject();
+        void StartProject();
+    }
+}
+
+-------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApp
+{
+    internal class Project : IProjectWorking
+    {
+        public void AssignEmployee(Employee employee)
+        {
+            Console.WriteLine("The employee is assigned to the project");
+            employee.PrintEmployeeDetails();
+
+        }
+        public void CompleteProject()
+        {
+            Console.WriteLine("The project is compelted on "+DateTime.Today);
+        }
+        public void ScheduleProject()
+        {
+            Console.WriteLine("The project is schedules and we will be late for sure  ;-)");
+        }
+        public void StartProject()
+        {
+            Console.WriteLine("Yayyyy we have started the project");
+        }
+        public void StopProject()
+        {
+            Console.WriteLine("Hard stopping the project");
+        }
+    }
+}
+
+----------------
+namespace UnderstandingOOPSApp
+{
+    internal class Program
+    {
+        static void CompanyProjects(IProjectWorking working)
+        {
+            working.StartProject();
+            working.AssignEmployee(new Employee(101, "Ramu", 34));
+            working.CompleteProject();
+            //working.StopProject();//will not work- It is not abstracted
+        }
+        static void Main(string[] args)
+        {
+            Project p1 = new Project();
+            //p1.StopProject();
+            CompanyProjects(p1);
+        }
+    }
+}
+----------------------
+namespace UnderstandingOOPSApp
+{
+    internal class Program
+    {
+        static void CompanyProjects(IProjectWorking working)
+        {
+            working.StartProject();
+            working.AssignEmployee(new Employee(101, "Ramu", 34));
+            working.CompleteProject();
+            //working.StopProject();//will not work- It is not abstracted
+        }
+        static void ManagerJob(IManageProject manage)
+        {
+            manage.CheckStatus();
+            manage.ChangeScope();
+            manage.CheckStatus();
+            manage.StopProject();
+        }
+        static void Main(string[] args)
+        {
+            //Project p1 = new Project();//Cannot instantiate an abstract class
+            Project p1 = new ProjectChange();
+            //p1.StopProject();
+            CompanyProjects(p1);
+            ManagerJob(p1);
+        }
+    }
+}
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApp
+{
+    internal interface IManageProject
+    {
+        void StopProject();
+        void CheckStatus();
+        void ChangeScope();
+    }
+}
+---------------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApp
+{
+    internal abstract class Project : IProjectWorking,IManageProject
+    {
+        public void AssignEmployee(Employee employee)
+        {
+            Console.WriteLine("The employee is assigned to the project");
+            employee.PrintEmployeeDetails();
+
+        }
+        public abstract void ChangeScope();
+        
+        public void CheckStatus()
+        {
+            Console.WriteLine("The current status of tehproject is blah blah blah");
+        }
+
+        public void CompleteProject()
+        {
+            Console.WriteLine("The project is compelted on "+DateTime.Today);
+        }
+        public void ScheduleProject()
+        {
+            Console.WriteLine("The project is schedules and we will be late for sure  ;-)");
+        }
+        public void StartProject()
+        {
+            Console.WriteLine("Yayyyy we have started the project");
+        }
+        public void StopProject()
+        {
+            Console.WriteLine("Hard stopping the project");
+        }
+    }
+    class ProjectChange:Project
+    {
+        public override void ChangeScope()
+        {
+            Console.WriteLine("Changed teh scope of the project");
+        }
+    }
+}
+------------------
+using System.Collections;
+
+namespace UnderstandingOOPSApp
+{
+    internal class Program
+    {
+        static void CompanyProjects(IProjectWorking working)
+        {
+            working.StartProject();
+            working.AssignEmployee(new Employee(101, "Ramu", 34));
+            working.CompleteProject();
+            //working.StopProject();//will not work- It is not abstracted
+        }
+        static void ManagerJob(IManageProject manage)
+        {
+            manage.CheckStatus();
+            manage.ChangeScope();
+            manage.CheckStatus();
+            manage.StopProject();
+        }
+        void UnderstandingCollection()
+        {
+            ArrayList scores = new ArrayList();
+            scores.Add(98);
+            scores.Add("Eighty");
+            scores.Add(77.4f);
+            scores.Add(44.5);
+            scores.Add(new { Id = 101 });
+            foreach (var item in scores)
+            {
+                Console.WriteLine(item);
+            }
+            double sum = 0;
+            foreach (var item in scores)
+            {
+                sum += double.Parse(item.ToString());
+            }
+        }
+        void UnderstandingArrayList()
+        {
+            ArrayList scores = new ArrayList();
+            scores.Add(98);
+            scores.Add("Eighty");
+            scores.Add(77.4f);
+            scores.Add(44.5);
+            scores.Add(new { Id = 101 });
+            //Console.WriteLine(scores[2]);
+            Console.WriteLine("Number of values in scores "+scores.Count);
+            for (int i = 0; i < scores.Count; i++)
+            {
+                Console.WriteLine(scores[i]);
+            }
+            scores.Add(100);
+            Console.WriteLine("Number of values in scores after " + scores.Count);
+
+        }
+        static void Main(string[] args)
+        {
+            //Project p1 = new Project();//Cannot instantiate an abstract class
+            //Project p1 = new ProjectChange();
+            ////p1.StopProject();
+            //CompanyProjects(p1);
+            //ManagerJob(p1);
+            //new Program().UnderstandingCollection();
+            new Program().UnderstandingArrayList();
+        }
+    }
+}
+
+using System.Collections;
+using System.Runtime.CompilerServices;
+
+namespace UnderstandingOOPSApp
+{
+    internal class Program
+    {
+        static void CompanyProjects(IProjectWorking working)
+        {
+            working.StartProject();
+            working.AssignEmployee(new Employee(101, "Ramu", 34));
+            working.CompleteProject();
+            //working.StopProject();//will not work- It is not abstracted
+        }
+        static void ManagerJob(IManageProject manage)
+        {
+            manage.CheckStatus();
+            manage.ChangeScope();
+            manage.CheckStatus();
+            manage.StopProject();
+        }
+        void UnderstandingCollection()
+        {
+            ArrayList scores = new ArrayList();
+            scores.Add(98);
+            scores.Add("Eighty");
+            scores.Add(77.4f);
+            scores.Add(44.5);
+            scores.Add(new { Id = 101 });
+            foreach (var item in scores)
+            {
+                Console.WriteLine(item);
+            }
+            double sum = 0;
+            foreach (var item in scores)
+            {
+                sum += double.Parse(item.ToString());
+            }
+        }
+        void UnderstandingArrayList()
+        {
+            ArrayList scores = new ArrayList();
+            scores.Add(98);
+            scores.Add("Eighty");
+            scores.Add(77.4f);
+            scores.Add(44.5);
+            scores.Add(new { Id = 101 });
+            //Console.WriteLine(scores[2]);
+            Console.WriteLine("Number of values in scores "+scores.Count);
+            for (int i = 0; i < scores.Count; i++)
+            {
+                Console.WriteLine(scores[i]);
+            }
+            scores.Add(100);
+            Console.WriteLine("Number of values in scores after adding more " + scores.Count);
+            //scores.RemoveAt(2);
+            scores.Remove(77.4f);
+            Console.WriteLine("After remove");
+            for (int i = 0; i < scores.Count; i++)
+            {
+                Console.WriteLine(scores[i]);
+            }
+        }
+        void UnderstandingSHashTable()
+        {
+            Hashtable hashtable = new Hashtable();
+            hashtable.Add(101, "Ramu");
+            hashtable.Add(102, "Somu");
+            hashtable.Add(103, "Bimu");
+            hashtable.Add(104, "Komu");
+            foreach (var item in hashtable.Keys)
+            {
+                Console.WriteLine(has[item]);
+            }
+            Console.WriteLine("Is the key 102 present?? "+hashtable.ContainsKey(101));
+            Console.WriteLine("Does it have Bimu in the values?? "+hashtable.ContainsValue("Bimu"));
+        }
+        void UnderstandingStack()
+        {
+            Stack myStack = new Stack();
+            myStack.Push("One");
+            myStack.Push(2);
+            myStack.Push(3.0);
+            Console.WriteLine("The first value to come out is "+myStack.Pop());
+        }
+        void UnderstandingQueue()
+        {
+            Queue myQueue = new Queue();
+            myQueue.Enqueue("One");
+            myQueue.Enqueue(2);
+            myQueue.Enqueue(3.0);
+            Console.WriteLine("The first value to come out is " + myQueue.Dequeue());
+            Console.WriteLine("The count after dequeue is "+myQueue.Count);
+        }
+        static void Main(string[] args)
+        {
+            //Project p1 = new Project();//Cannot instantiate an abstract class
+            //Project p1 = new ProjectChange();
+            ////p1.StopProject();
+            //CompanyProjects(p1);
+            //ManagerJob(p1);
+            //new Program().UnderstandingCollection();
+            //new Program().UnderstandingArrayList();
+            //new Program().UnderstandingSHashTable();
+            //new Program().UnderstandingStack();
+            new Program().UnderstandingQueue();

@@ -20,7 +20,7 @@ class StageEvent : Event //Fill your code here
     public double totalCost()
     {
         //Fill your code here
-        // cost=_costPerDay*_noOfDays;//4500
+        cost=_costPerDay*_noOfDays;
         double GrossCost=((0.15*cost)+cost);
         return GrossCost;
     }
@@ -28,8 +28,6 @@ class StageEvent : Event //Fill your code here
     public override string ToString()
     {
         //Fill your code here
-        Console.WriteLine("Name:{0}\nType:{1}\nNumber of seats:{2}",_name,_type,_noOfSeats);
-        Console.WriteLine("Total amount:"+string.Format("{0:0.00}",totalCost()));
-        return "";
+        return base.ToString()+"\nNumber of seats:"+_noOfSeats+"\nTotal amount:"+totalCost().ToString("F2");
     }
 }
