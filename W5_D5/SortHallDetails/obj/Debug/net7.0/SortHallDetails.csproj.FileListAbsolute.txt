@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\bin\Debug\net7.0\SortHallDetails.exe
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\bin\Debug\net7.0\SortHallDetails.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\bin\Debug\net7.0\SortHallDetails.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\bin\Debug\net7.0\SortHallDetails.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\bin\Debug\net7.0\SortHallDetails.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\obj\Debug\net7.0\SortHallDetails.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\obj\Debug\net7.0\SortHallDetails.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\obj\Debug\net7.0\SortHallDetails.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\obj\Debug\net7.0\SortHallDetails.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\obj\Debug\net7.0\SortHallDetails.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\obj\Debug\net7.0\SortHallDetails.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\obj\Debug\net7.0\refint\SortHallDetails.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\obj\Debug\net7.0\SortHallDetails.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\obj\Debug\net7.0\SortHallDetails.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortHallDetails\obj\Debug\net7.0\ref\SortHallDetails.dll
