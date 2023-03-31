@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\bin\Debug\net7.0\AddAndRemoveHall.exe
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\bin\Debug\net7.0\AddAndRemoveHall.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\bin\Debug\net7.0\AddAndRemoveHall.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\bin\Debug\net7.0\AddAndRemoveHall.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\bin\Debug\net7.0\AddAndRemoveHall.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\obj\Debug\net7.0\AddAndRemoveHall.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\obj\Debug\net7.0\AddAndRemoveHall.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\obj\Debug\net7.0\AddAndRemoveHall.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\obj\Debug\net7.0\AddAndRemoveHall.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\obj\Debug\net7.0\AddAndRemoveHall.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\obj\Debug\net7.0\AddAndRemoveHall.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\obj\Debug\net7.0\refint\AddAndRemoveHall.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\obj\Debug\net7.0\AddAndRemoveHall.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\obj\Debug\net7.0\AddAndRemoveHall.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\AddAndRemoveHall\obj\Debug\net7.0\ref\AddAndRemoveHall.dll
