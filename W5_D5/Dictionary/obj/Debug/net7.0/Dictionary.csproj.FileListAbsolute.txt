@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\bin\Debug\net7.0\Dictionary.exe
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\bin\Debug\net7.0\Dictionary.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\obj\Debug\net7.0\Dictionary.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\obj\Debug\net7.0\Dictionary.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll
