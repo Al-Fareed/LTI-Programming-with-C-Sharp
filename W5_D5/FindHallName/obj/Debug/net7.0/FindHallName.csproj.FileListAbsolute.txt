@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\bin\Debug\net7.0\FindHallName.exe
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\bin\Debug\net7.0\FindHallName.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\bin\Debug\net7.0\FindHallName.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\bin\Debug\net7.0\FindHallName.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\bin\Debug\net7.0\FindHallName.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\obj\Debug\net7.0\FindHallName.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\obj\Debug\net7.0\FindHallName.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\obj\Debug\net7.0\FindHallName.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\obj\Debug\net7.0\FindHallName.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\obj\Debug\net7.0\FindHallName.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\obj\Debug\net7.0\FindHallName.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\obj\Debug\net7.0\refint\FindHallName.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\obj\Debug\net7.0\FindHallName.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\obj\Debug\net7.0\FindHallName.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindHallName\obj\Debug\net7.0\ref\FindHallName.dll
