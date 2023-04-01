@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\obj\Debug\net7.0\SortAddress.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\obj\Debug\net7.0\SortAddress.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\obj\Debug\net7.0\SortAddress.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\obj\Debug\net7.0\SortAddress.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\obj\Debug\net7.0\SortAddress.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\bin\Debug\net7.0\SortAddress.exe
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\bin\Debug\net7.0\SortAddress.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\bin\Debug\net7.0\SortAddress.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\bin\Debug\net7.0\SortAddress.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\bin\Debug\net7.0\SortAddress.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\obj\Debug\net7.0\SortAddress.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\obj\Debug\net7.0\refint\SortAddress.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\obj\Debug\net7.0\SortAddress.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\obj\Debug\net7.0\SortAddress.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\SortAddress\obj\Debug\net7.0\ref\SortAddress.dll
