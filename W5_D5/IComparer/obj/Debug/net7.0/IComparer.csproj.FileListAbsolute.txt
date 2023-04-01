@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\obj\Debug\net7.0\IComparer.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\obj\Debug\net7.0\IComparer.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\obj\Debug\net7.0\IComparer.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\obj\Debug\net7.0\IComparer.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\obj\Debug\net7.0\IComparer.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\bin\Debug\net7.0\IComparer.exe
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\bin\Debug\net7.0\IComparer.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\bin\Debug\net7.0\IComparer.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\bin\Debug\net7.0\IComparer.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\bin\Debug\net7.0\IComparer.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\obj\Debug\net7.0\IComparer.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\obj\Debug\net7.0\refint\IComparer.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\obj\Debug\net7.0\IComparer.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\obj\Debug\net7.0\IComparer.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\IComparer\obj\Debug\net7.0\ref\IComparer.dll
