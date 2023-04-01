@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\obj\Debug\net7.0\ListBinarySearch.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\obj\Debug\net7.0\ListBinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\obj\Debug\net7.0\ListBinarySearch.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\obj\Debug\net7.0\ListBinarySearch.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\obj\Debug\net7.0\ListBinarySearch.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\bin\Debug\net7.0\ListBinarySearch.exe
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\bin\Debug\net7.0\ListBinarySearch.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\bin\Debug\net7.0\ListBinarySearch.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\bin\Debug\net7.0\ListBinarySearch.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\bin\Debug\net7.0\ListBinarySearch.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\obj\Debug\net7.0\ListBinarySearch.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\obj\Debug\net7.0\refint\ListBinarySearch.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\obj\Debug\net7.0\ListBinarySearch.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\obj\Debug\net7.0\ListBinarySearch.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\ListBinarySearch\obj\Debug\net7.0\ref\ListBinarySearch.dll
