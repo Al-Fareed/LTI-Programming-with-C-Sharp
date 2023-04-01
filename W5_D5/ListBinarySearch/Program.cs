@@ -7,29 +7,28 @@ namespace ListBinarySearch
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter total number of users");
-            int numUsers = int.Parse(Console.ReadLine());
-
             List<User> userList = new List<User>();
 
-            for (int i = 0; i < numUsers; i++)
+            Console.WriteLine("Enter total number of users");
+            int noOfUsers = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < noOfUsers; i++)
             {
-                string[] details = Console.ReadLine().Split(',');
+                string[] details = Console.ReadLine().Split(",");
                 string name = details[0];
                 string email = details[1];
                 string contactNo = details[2];
                 User user = new User(name, email, contactNo);
                 userList.Add(user);
             }
-
             userList.Sort(new MyComparer());
 
             Console.WriteLine("Enter UserName to search");
-            string searchName = Console.ReadLine();
+            string searchUser = Console.ReadLine();
 
-            User userToFind = new User(searchName, "", "");
+            User userToSearch = new User(searchUser, "", "");
 
-            int index = userList.BinarySearch(userToFind, new MyComparer());
+            int index = userList.BinarySearch(userToSearch, new MyComparer());
 
             if (index >= 0)
             {

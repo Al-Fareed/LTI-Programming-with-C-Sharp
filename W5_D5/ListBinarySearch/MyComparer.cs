@@ -3,11 +3,11 @@ using System.Collections.Generic;
 
 namespace ListBinarySearch
 {
-    public class MyComparer : IComparer<User>
+     public class MyComparer : IComparer<User>
     {
-        public int Compare(User x, User y)
+        public int Compare(User u1, User u2)
         {
-            return x.Username.CompareTo(y.Username);
+            return u1.UserName.CompareTo(u2.UserName);
         }
     }
 }
