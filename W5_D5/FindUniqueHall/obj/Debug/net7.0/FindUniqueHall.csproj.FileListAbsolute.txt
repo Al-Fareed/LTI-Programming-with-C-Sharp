@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\bin\Debug\net7.0\FindUniqueHall.exe
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\bin\Debug\net7.0\FindUniqueHall.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\bin\Debug\net7.0\FindUniqueHall.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\bin\Debug\net7.0\FindUniqueHall.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\bin\Debug\net7.0\FindUniqueHall.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\obj\Debug\net7.0\FindUniqueHall.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\obj\Debug\net7.0\FindUniqueHall.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\obj\Debug\net7.0\FindUniqueHall.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\obj\Debug\net7.0\FindUniqueHall.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\obj\Debug\net7.0\FindUniqueHall.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\obj\Debug\net7.0\FindUniqueHall.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\obj\Debug\net7.0\refint\FindUniqueHall.dll
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\obj\Debug\net7.0\FindUniqueHall.pdb
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\obj\Debug\net7.0\FindUniqueHall.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\W5_D5\FindUniqueHall\obj\Debug\net7.0\ref\FindUniqueHall.dll
