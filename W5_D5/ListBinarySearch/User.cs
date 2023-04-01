@@ -5,6 +5,8 @@ namespace ListBinarySearch
    public class User
     {
         private string _username, _email, _contactNo;
+
+        // ! property definition really matters, don't {get;set;} property
         public string UserName { 
             get=>_username;
             set=>_username=value;
