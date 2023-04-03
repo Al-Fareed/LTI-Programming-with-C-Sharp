@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\test\bin\Debug\net7.0\test.exe
+A:\LTI-Training\Programming-with-C-Sharp\test\bin\Debug\net7.0\test.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\test\bin\Debug\net7.0\test.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\test\bin\Debug\net7.0\test.dll
+A:\LTI-Training\Programming-with-C-Sharp\test\bin\Debug\net7.0\test.pdb
+A:\LTI-Training\Programming-with-C-Sharp\test\obj\Debug\net7.0\test.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\test\obj\Debug\net7.0\test.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\test\obj\Debug\net7.0\test.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\test\obj\Debug\net7.0\test.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\test\obj\Debug\net7.0\test.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\test\obj\Debug\net7.0\test.dll
+A:\LTI-Training\Programming-with-C-Sharp\test\obj\Debug\net7.0\refint\test.dll
+A:\LTI-Training\Programming-with-C-Sharp\test\obj\Debug\net7.0\test.pdb
+A:\LTI-Training\Programming-with-C-Sharp\test\obj\Debug\net7.0\test.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\test\obj\Debug\net7.0\ref\test.dll

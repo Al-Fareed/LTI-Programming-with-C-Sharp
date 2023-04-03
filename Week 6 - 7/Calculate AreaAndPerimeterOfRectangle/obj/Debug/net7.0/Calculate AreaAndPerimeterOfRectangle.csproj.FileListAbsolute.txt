@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\bin\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.exe
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\bin\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\bin\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\bin\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\bin\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\obj\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\obj\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\obj\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\obj\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\obj\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\obj\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\obj\Debug\net7.0\refint\Calculate AreaAndPerimeterOfRectangle.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\obj\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\obj\Debug\net7.0\Calculate AreaAndPerimeterOfRectangle.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\Calculate AreaAndPerimeterOfRectangle\obj\Debug\net7.0\ref\Calculate AreaAndPerimeterOfRectangle.dll
