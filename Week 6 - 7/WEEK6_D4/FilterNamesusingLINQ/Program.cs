@@ -55,7 +55,8 @@ using System.Collections.Generic;
 using System.Linq;
 class Program
 {
-    static void Main(string[] args){
+    static void Main(string[] args)
+    {
         UserProgram userProg = new UserProgram();
 
         Console.WriteLine("Enter the number of names");
@@ -68,11 +69,17 @@ class Program
         }
         Console.WriteLine("Enter the min string size");
         int minSize = int.Parse(Console.ReadLine());
-        Console.WriteLine("Filtered Names");
-        string[] filteredNames = UserProgram.FilterArray(names,minSize);
-        foreach (string item in filteredNames)
+        string[] filteredNames = UserProgram.FilterArray(names, minSize);
+        if (filteredNames.Length > 0)
         {
-            Console.WriteLine(item);
+            Console.WriteLine("Filtered Names");
+            foreach (string item in filteredNames)
+            {
+                Console.WriteLine(item);
+            }
+        }
+        else{
+            Console.WriteLine("No names present in the minimum size "+minSize);
         }
     }
 }
