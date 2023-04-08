@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/FindFavoriteCustomer/bin/Debug/net7.0/FindFavoriteCustomer.dll",
+            "program": "${workspaceFolder}/DisplayStudentForCompany/bin/Debug/net7.0/DisplayStudentForCompany.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/FindFavoriteCustomer",
+            "cwd": "${workspaceFolder}/DisplayStudentForCompany",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
