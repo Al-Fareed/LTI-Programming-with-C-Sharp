@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\bin\Debug\net7.0\PrimeNumber.exe
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\bin\Debug\net7.0\PrimeNumber.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\bin\Debug\net7.0\PrimeNumber.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\bin\Debug\net7.0\PrimeNumber.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\bin\Debug\net7.0\PrimeNumber.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\obj\Debug\net7.0\PrimeNumber.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\obj\Debug\net7.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\obj\Debug\net7.0\PrimeNumber.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\obj\Debug\net7.0\PrimeNumber.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\obj\Debug\net7.0\PrimeNumber.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\obj\Debug\net7.0\PrimeNumber.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\obj\Debug\net7.0\refint\PrimeNumber.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\obj\Debug\net7.0\PrimeNumber.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\obj\Debug\net7.0\PrimeNumber.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 4 - 5\W4_D4\C# Iterative Statements\PrimeNumber\obj\Debug\net7.0\ref\PrimeNumber.dll
