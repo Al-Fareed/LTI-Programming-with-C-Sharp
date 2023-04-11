@@ -36,26 +36,16 @@ Sample Output 2:
 80 is the maximum number
 */
 using System;
-class Program{
+class Program
+{
     static void Main(string[] args)
     {
-        int a=int.Parse(Console.ReadLine());
-        int b=int.Parse(Console.ReadLine());
-        int c=int.Parse(Console.ReadLine());
-        int max;
-        if(a>b){
-            if(a>c){
-                max=a;
-            }else{
-                max=c;
-            }
-        }else{
-            if(b>c){
-                max=b;
-            }else{
-                max=c;
-            }
-        }
-        Console.WriteLine(max+" is the maximum number");
+        int a = int.Parse(Console.ReadLine());
+        int b = int.Parse(Console.ReadLine());
+        int c = int.Parse(Console.ReadLine());
+        int max = (a > b) ?
+                    (a > c) ? a : c 
+                    : (b > c) ? b : c;
+        Console.WriteLine(max + " is the maximum number");
     }
 }

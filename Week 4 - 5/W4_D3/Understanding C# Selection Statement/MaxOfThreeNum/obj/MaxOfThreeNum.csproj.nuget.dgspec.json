@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\LTI-Training\\LTI-Programming-with-C-Sharp\\W4_D3\\Understanding C# Selection Statement\\MaxOfThreeNum\\MaxOfThreeNum.csproj": {}
+    "A:\\LTI-Training\\Programming-with-C-Sharp\\Week 4 - 5\\W4_D3\\Understanding C# Selection Statement\\MaxOfThreeNum\\MaxOfThreeNum.csproj": {}
   },
   "projects": {
-    "A:\\LTI-Training\\LTI-Programming-with-C-Sharp\\W4_D3\\Understanding C# Selection Statement\\MaxOfThreeNum\\MaxOfThreeNum.csproj": {
+    "A:\\LTI-Training\\Programming-with-C-Sharp\\Week 4 - 5\\W4_D3\\Understanding C# Selection Statement\\MaxOfThreeNum\\MaxOfThreeNum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\LTI-Training\\LTI-Programming-with-C-Sharp\\W4_D3\\Understanding C# Selection Statement\\MaxOfThreeNum\\MaxOfThreeNum.csproj",
+        "projectUniqueName": "A:\\LTI-Training\\Programming-with-C-Sharp\\Week 4 - 5\\W4_D3\\Understanding C# Selection Statement\\MaxOfThreeNum\\MaxOfThreeNum.csproj",
         "projectName": "MaxOfThreeNum",
-        "projectPath": "A:\\LTI-Training\\LTI-Programming-with-C-Sharp\\W4_D3\\Understanding C# Selection Statement\\MaxOfThreeNum\\MaxOfThreeNum.csproj",
+        "projectPath": "A:\\LTI-Training\\Programming-with-C-Sharp\\Week 4 - 5\\W4_D3\\Understanding C# Selection Statement\\MaxOfThreeNum\\MaxOfThreeNum.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "A:\\LTI-Training\\LTI-Programming-with-C-Sharp\\W4_D3\\Understanding C# Selection Statement\\MaxOfThreeNum\\obj\\",
+        "outputPath": "A:\\LTI-Training\\Programming-with-C-Sharp\\Week 4 - 5\\W4_D3\\Understanding C# Selection Statement\\MaxOfThreeNum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
