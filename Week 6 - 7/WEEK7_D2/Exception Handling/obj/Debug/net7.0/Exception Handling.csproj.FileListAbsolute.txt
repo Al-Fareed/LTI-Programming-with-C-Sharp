@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\bin\Debug\net7.0\Exception Handling.exe
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\bin\Debug\net7.0\Exception Handling.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\bin\Debug\net7.0\Exception Handling.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\bin\Debug\net7.0\Exception Handling.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\bin\Debug\net7.0\Exception Handling.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\obj\Debug\net7.0\Exception Handling.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\obj\Debug\net7.0\Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\obj\Debug\net7.0\Exception Handling.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\obj\Debug\net7.0\Exception Handling.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\obj\Debug\net7.0\Exception Handling.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\obj\Debug\net7.0\Exception Handling.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\obj\Debug\net7.0\refint\Exception Handling.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\obj\Debug\net7.0\Exception Handling.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\obj\Debug\net7.0\Exception Handling.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\WEEK7_D2\Exception Handling\obj\Debug\net7.0\ref\Exception Handling.dll
