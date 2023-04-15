@@ -1,49 +1,27 @@
 ﻿/*
-Seat Booking
-Write a program to book the seat and display the result.
+Custom Exception - Password Validation
+Create a class User with following attributes 
+Data Type	Variables
+string	_firstName
+string	_lastName
+string	_email
+string	_password
+Include appropriate Properties.
+Include four-argument constructor with parameters in the following order,
+public User(string _firstName,string _lastName,string _email,string _password)
 
- 
+Create another class UserBO with the following method, 
+Method	Description
+ static void validatePassword(string password)	In this method, password id is validated throws WeakException if the password is not in the correct format.
 
-[Note : Strictly adhere to the object oriented specifications given as a part of the problem statement.
-Follow the naming conventions as mentioned. Create separate classes in separate files.]
+Password rules:
+It should be minimum of 10 characters and maximum of 20 characters.
+It should contain atleast one digit.
 
-Consider class SeatNotAvailableException which extends Exception class.
-Include a constructor with a string argument "Message", pass the Message to the base class constructor.
+It should contain atleast one special character (non-numeric, non-alphabetic).
 
-Consider Program class with Main method, get the details of the availability of seats from the user and the seat number for booking.
-Use try catch block to catch the exception and display the error message.
-If the seat is available, display success message as “Booked successfully”. If the seat is already booked then display “Seat booked already”.
+If the password doesnt match with the rule then throw the exception "WeakPasswordException"
 
-Note: In the seat availability string, 0 indicates the seat is available whereas 1 indicates the booked seat.
-
-The link to download the template code is given below
-Code Template
-
-
-Input and Output Format:
-Refer sample input and output for formatting specifications.
-[All text in bold corresponds to the input and the rest corresponds to output.]
-
-Sample Input and Output 1 :
-Enter the booking details
-001001
-Enter the seat number to book
-2
-Booked successfully
-
-Sample Input and Output 2 :
-Enter the booking details
-101001
-Enter the seat number to book
-3
-Seat booked already
-
-Sample Input and Output 3 :
-Enter the booking details
-1001100
-Enter the seat number to book
-8
-Array index is out of range.
 */
 using System;
 public class WeakException : Exception
