@@ -1,0 +1,10 @@
+Gandhi street,Pune,Maharashtra,641669
+Nehru street,Darjeeling,West Bengal,641659
+Tri-State area,Danville,San Romon,925669
+S.K street,chennai,Tamil Nadu,601669
+A.P.J Kalam street,Rameshwaram,,641890
+Ambethkar street,Mumbai, Maharashtra,641569
+V.J street,Bengaluru, Karnataka,689569
+A.J street,Kolkata,West Bengal,641899
+Kattor street,Ahmedabad,Gujarat,643269
+Bharathiyar street,Hyderabad,Telangana,649269

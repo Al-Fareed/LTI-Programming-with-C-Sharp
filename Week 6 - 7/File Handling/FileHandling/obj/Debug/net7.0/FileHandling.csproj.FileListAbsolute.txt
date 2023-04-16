@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\obj\Debug\net7.0\FileHandling.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\obj\Debug\net7.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\obj\Debug\net7.0\FileHandling.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\obj\Debug\net7.0\FileHandling.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\obj\Debug\net7.0\FileHandling.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\bin\Debug\net7.0\FileHandling.exe
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\bin\Debug\net7.0\FileHandling.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\bin\Debug\net7.0\FileHandling.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\bin\Debug\net7.0\FileHandling.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\bin\Debug\net7.0\FileHandling.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\obj\Debug\net7.0\FileHandling.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\obj\Debug\net7.0\refint\FileHandling.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\obj\Debug\net7.0\FileHandling.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\obj\Debug\net7.0\FileHandling.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\FileHandling\obj\Debug\net7.0\ref\FileHandling.dll
