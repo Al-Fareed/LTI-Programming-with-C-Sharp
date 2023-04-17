@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\obj\Debug\net7.0\WriteFile.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\obj\Debug\net7.0\WriteFile.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\obj\Debug\net7.0\WriteFile.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\obj\Debug\net7.0\WriteFile.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\obj\Debug\net7.0\WriteFile.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\bin\Debug\net7.0\WriteFile.exe
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\bin\Debug\net7.0\WriteFile.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\bin\Debug\net7.0\WriteFile.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\bin\Debug\net7.0\WriteFile.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\bin\Debug\net7.0\WriteFile.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\obj\Debug\net7.0\WriteFile.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\obj\Debug\net7.0\refint\WriteFile.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\obj\Debug\net7.0\WriteFile.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\obj\Debug\net7.0\WriteFile.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\WriteFile\obj\Debug\net7.0\ref\WriteFile.dll
