@@ -1,0 +1,7 @@
+Electronics    90000     60000     
+Furnitures     75000     30000     
+Stationaries   15000     1500      
+Interior works 30000     25000     
+Cosmetics      10000     1000      
+Decoration     25000     1500      
+Party Wears    35000     4500      

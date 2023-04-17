@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\obj\Debug\net7.0\ItemTypeCost.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\obj\Debug\net7.0\ItemTypeCost.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\obj\Debug\net7.0\ItemTypeCost.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\obj\Debug\net7.0\ItemTypeCost.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\obj\Debug\net7.0\ItemTypeCost.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\bin\Debug\net7.0\ItemTypeCost.exe
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\bin\Debug\net7.0\ItemTypeCost.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\bin\Debug\net7.0\ItemTypeCost.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\bin\Debug\net7.0\ItemTypeCost.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\bin\Debug\net7.0\ItemTypeCost.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\obj\Debug\net7.0\ItemTypeCost.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\obj\Debug\net7.0\refint\ItemTypeCost.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\obj\Debug\net7.0\ItemTypeCost.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\obj\Debug\net7.0\ItemTypeCost.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ItemTypeCost\obj\Debug\net7.0\ref\ItemTypeCost.dll
