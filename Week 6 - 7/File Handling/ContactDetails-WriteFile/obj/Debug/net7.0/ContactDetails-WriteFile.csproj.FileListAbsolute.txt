@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\bin\Debug\net7.0\ContactDetails-WriteFile.exe
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\bin\Debug\net7.0\ContactDetails-WriteFile.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\bin\Debug\net7.0\ContactDetails-WriteFile.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\bin\Debug\net7.0\ContactDetails-WriteFile.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\bin\Debug\net7.0\ContactDetails-WriteFile.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\obj\Debug\net7.0\ContactDetails-WriteFile.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\obj\Debug\net7.0\ContactDetails-WriteFile.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\obj\Debug\net7.0\ContactDetails-WriteFile.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\obj\Debug\net7.0\ContactDetails-WriteFile.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\obj\Debug\net7.0\ContactDetails-WriteFile.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\obj\Debug\net7.0\ContactDetails-WriteFile.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\obj\Debug\net7.0\refint\ContactDetails-WriteFile.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\obj\Debug\net7.0\ContactDetails-WriteFile.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\obj\Debug\net7.0\ContactDetails-WriteFile.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\ContactDetails-WriteFile\obj\Debug\net7.0\ref\ContactDetails-WriteFile.dll
