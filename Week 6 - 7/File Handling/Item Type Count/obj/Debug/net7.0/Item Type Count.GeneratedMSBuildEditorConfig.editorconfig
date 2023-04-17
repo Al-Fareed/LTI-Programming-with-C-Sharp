@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Event_Organizer
-build_property.ProjectDir = a:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\
+build_property.RootNamespace = Item_Type_Count
+build_property.ProjectDir = a:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\

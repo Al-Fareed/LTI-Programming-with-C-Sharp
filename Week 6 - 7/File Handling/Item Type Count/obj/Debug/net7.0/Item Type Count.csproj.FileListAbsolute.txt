@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\obj\Debug\net7.0\Item Type Count.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\obj\Debug\net7.0\Item Type Count.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\obj\Debug\net7.0\Item Type Count.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\obj\Debug\net7.0\Item Type Count.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\obj\Debug\net7.0\Item Type Count.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\bin\Debug\net7.0\Item Type Count.exe
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\bin\Debug\net7.0\Item Type Count.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\bin\Debug\net7.0\Item Type Count.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\bin\Debug\net7.0\Item Type Count.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\bin\Debug\net7.0\Item Type Count.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\obj\Debug\net7.0\Item Type Count.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\obj\Debug\net7.0\refint\Item Type Count.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\obj\Debug\net7.0\Item Type Count.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\obj\Debug\net7.0\Item Type Count.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Item Type Count\obj\Debug\net7.0\ref\Item Type Count.dll
