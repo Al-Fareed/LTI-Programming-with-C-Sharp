@@ -1,0 +1,5 @@
+Sky Lantern Festival     Stage Event    60000     Andrea    
+Rio Carnival             Exhibition     50000     Sachi     
+Songkran                 Exhibition     75000     Sanna     
+Stars of the white house Stage Event    80000     Andrea    
+Cannes film festival     Stage Event    55000     Santana   

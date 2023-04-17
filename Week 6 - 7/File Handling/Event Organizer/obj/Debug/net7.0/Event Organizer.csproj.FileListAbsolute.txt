@@ -1,0 +1,15 @@
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\obj\Debug\net7.0\Event Organizer.csproj.AssemblyReference.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\obj\Debug\net7.0\Event Organizer.GeneratedMSBuildEditorConfig.editorconfig
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\obj\Debug\net7.0\Event Organizer.AssemblyInfoInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\obj\Debug\net7.0\Event Organizer.AssemblyInfo.cs
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\obj\Debug\net7.0\Event Organizer.csproj.CoreCompileInputs.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\bin\Debug\net7.0\Event Organizer.exe
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\bin\Debug\net7.0\Event Organizer.deps.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\bin\Debug\net7.0\Event Organizer.runtimeconfig.json
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\bin\Debug\net7.0\Event Organizer.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\bin\Debug\net7.0\Event Organizer.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\obj\Debug\net7.0\Event Organizer.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\obj\Debug\net7.0\refint\Event Organizer.dll
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\obj\Debug\net7.0\Event Organizer.pdb
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\obj\Debug\net7.0\Event Organizer.genruntimeconfig.cache
+A:\LTI-Training\Programming-with-C-Sharp\Week 6 - 7\File Handling\Event Organizer\obj\Debug\net7.0\ref\Event Organizer.dll
