@@ -1,4 +1,4 @@
-﻿// ! This code is absolutely fine, but tje upskill compiler shows wrong
+﻿// ! This code is absolutely fine, but the upskill compiler shows wrong
 /*
 Item Type Cost
 Write a program to read the item type details from the file and display the item type details whose deposit is  greater than Rs.20000.
