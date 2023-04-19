@@ -3,12 +3,11 @@ using System.IO;
 using System.Collections.Generic;
 public class ItemTypeBO
 {
-    public List<ItemType> AddItemType(string details, List<ItemType> itemList)
+   public List<ItemType> AddItemType(string details, List<ItemType> itemList)
     {
         string name = details.Substring(0, 15).Trim();
         double deposit = double.Parse(details.Substring(15, 10).Trim());
         double costPerDay = double.Parse(details.Substring(25, 10).Trim());
-        Console.WriteLine("{0},{1},{2}", name, deposit, costPerDay);
         itemList.Add(new ItemType(name, deposit, costPerDay));
         return itemList;
     }
@@ -16,17 +15,15 @@ public class ItemTypeBO
     {
 
         Console.WriteLine("Item Type having deposit greater than Rs.20000 are:");
-        bool found = true;
+        bool found = false;
         foreach (ItemType item in list)
         {
             if (item.Deposit > 20000)
             {
                 Console.WriteLine("ItemType Name: {0}\nDeposit Amount: {1}\nCost Per Day: {2}", item.Name, item.Deposit, item.CostPerDay);
+                found = true;
             }
-            else
-            {
-                found = false;
-            }
+           
         }
         if (!found)
         {
