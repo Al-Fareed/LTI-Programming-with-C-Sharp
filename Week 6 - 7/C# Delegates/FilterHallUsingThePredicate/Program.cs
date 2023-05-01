@@ -106,9 +106,10 @@ using System;
 using System.Collections.Generic;
 class Program
 {
-    static void Main(string[] args){
+    static void Main(string[] args)
+    {
         List<Hall> hallList = new List<Hall>();
-        
+
         Console.WriteLine("Enter the number of halls:");
         int noOfHalls = int.Parse(Console.ReadLine());
 
@@ -118,13 +119,14 @@ class Program
             string input = Console.ReadLine();
             hallList.Add(Hall.CreateHall(input));
         }
-       Hall hall = new Hall();
-       Console.WriteLine("Enter the minimum price to filter:");
-       double minPrice = double.Parse(Console.ReadLine());
-       Console.WriteLine("Enter the maximum price to filter:");
-       double maxPrice = double.Parse(Console.ReadLine());
-        Predicate<double> costPred = delegate (double costPerDay) { return costPerDay >= minPrice && costPerDay <= maxPrice; };
-        List<Hall> filteredList = hall.FilterHall(hallList,costPred);
-       hall.DisplayHallDetails(filteredList);
+        Hall hall = new Hall();
+        Console.WriteLine("Enter the minimum price to filter:");
+        double minPrice = double.Parse(Console.ReadLine());
+        Console.WriteLine("Enter the maximum price to filter:");
+        double maxPrice = double.Parse(Console.ReadLine());
+        Predicate<double> costPred = delegate (double costPerDay) { 
+            return costPerDay >= minPrice && costPerDay <= maxPrice; };
+        List<Hall> filteredList = hall.FilterHall(hallList, costPred);
+        hall.DisplayHallDetails(filteredList);
     }
 }
